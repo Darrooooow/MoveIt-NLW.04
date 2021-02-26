@@ -18,3 +18,5 @@ export default class MyDocument extends Document {
         );
     }
 }
+
+// Essa é a página onde basicamente vai ficar tudo que será implementado nas demais páginas, como no caso da fonte. Ou seja, tudo que for permanente na aplicação, como um header ou coisa parecida, pode ficar aqui.
