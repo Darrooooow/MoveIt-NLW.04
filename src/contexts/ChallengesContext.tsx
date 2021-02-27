@@ -2,7 +2,7 @@ import { createContext, useState, ReactNode } from 'react';
 import challenges from '../../challenges.json';
 
 interface Challenge {
-    type: 'body' | 'eyee';
+    type: 'body' | 'eye';
     description: string;
     amount: number;
 }
@@ -16,6 +16,7 @@ interface ChallengesContextData {
     levelUp: () => void;
     startNewChallenge: () => void;
     resetChallenge: () => void;
+    completeChallenge: () => void;
 }
 
 interface ChallengesProviderProps {
@@ -49,6 +50,26 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
         setActiveChallenge(null);
     }
 
+
+    function completeChallenge() {
+        if (!activeChallenge) {
+            return;
+        }
+
+        const { amount } = activeChallenge;
+
+        let finalExperience = currentExperience + amount; // LET: let it change ou deixe isso mudar. OU SEJA, A VARIÁVEL LET PODE RECEBER UM NOVO VALOR NO FUTURO
+
+        if (finalExperience >= experienceToNextLevel) {
+            finalExperience = finalExperience - experienceToNextLevel;
+            levelUp();
+        }
+
+        setCurrentExperience(finalExperience);
+        setActiveChallenge(null);
+        setChallengesCompleted(challengesCompleted + 1);
+    }
+
     return (
         <ChallengesContext.Provider 
         value={{ 
@@ -60,6 +81,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
             startNewChallenge,
             activeChallenge,
             resetChallenge,
+            completeChallenge,
           }}
         >
             {children}
