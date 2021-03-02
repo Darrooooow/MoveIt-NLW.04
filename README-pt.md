@@ -2,12 +2,12 @@
   <img alt="move.it" title="move.it" src="public/logo-full.svg" />
 </h1>
 
-<p align="center">Move.it is an app that combines the Pomodoro technique with physical exercises for those who spend a lot of time in front of the computer.</p>
+<p align="center">Move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.</p>
 
 <p align="center">
-    <a href="README.md">English</a>
+    <a href="README.md">Inglês</a>
     ·
-    <a href="README-pt.md">Portuguese</a>
+    <a href="README-pt.md">Português</a>
  </p>
 
 <br>
@@ -36,4 +36,3 @@
 <p align="center">
   <img src=".github/cover.png" alt="Página inicial">
 </p>
-
