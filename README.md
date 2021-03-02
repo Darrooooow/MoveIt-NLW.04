@@ -11,9 +11,12 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=made by&message=Darrow&color=8257E5&labelColor=000000" alt="mady by darrow" />
+  <img src="https://img.shields.io/static/v1?label=made by&message=Darrow&color=8257E5&labelColor=000000" alt="mady by darrow" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
- <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
+  <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
+  <a href="https://github.com/Darrooooow/Move.it-NLW-04/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Darrooooow/Move.it-NLW-04?&color=8257E5&labelColor=000000">
+  </a>
 </p>
 
 <br>
