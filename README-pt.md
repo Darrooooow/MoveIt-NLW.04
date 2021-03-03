@@ -15,7 +15,7 @@
 <p align="center">
 
   <a href="https://github.com/Darrooooow">
-    <img src="https://img.shields.io/static/v1?label=made by&message=Darrow&color=5965e0&labelColor=000000&style=<STYLE>&logo=github" alt="Made by Darrow" title="Made by Darrow">
+    <img src="https://img.shields.io/static/v1?label=feitor por&message=Darrow&color=5965e0&labelColor=000000&style=<STYLE>&logo=github" alt="Made by Darrow" title="Made by Darrow">
   </a>
 
   <a aria-label="NLW 04" href="https://nextlevelweek.com/">
@@ -112,4 +112,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.co
 <br>
 <hr>
 
-<p align="center">Made with 💜 by <a href="https://github.com/Darrooooow">Darrow</a>.</p>
+<p align="center">Feito com 💜 por <a href="https://github.com/Darrooooow">Darrow</a>.</p>
