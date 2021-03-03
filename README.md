@@ -57,18 +57,20 @@
 
 ## About the project
 
-This project was developed on the Next Level Week #04 event by <a href="https://rocketseat.com.br/">Rocketseat</a>.
+Generally, people who work from home spend too much time at the computer, sitting in the same position for hours, and Move.it is here to fix this. The project was developed using the Pomodoro technique of time management and gamification, which consists of the user focusing on some productive activity for 25 minutes.
 
 <p align="center">
   <img src=".github/cover.png" alt="Página inicial">
 </p>
 
-The Move.it is an app that combines the Pomodoro technique with physical exercises for those who spend a lot of time in front of the computer.
+After that time, the app will show some physical challenges that may involve the body or eyes, for example, resting your eyes, stretching your arms, and the like. Upon completing the challenge, the user gains a score in XP that varies according to each challenge and eventually makes him level up and progress in the app. If the user does not complete the challenge, XP will not be obtained and the app will restart the timer so that another challenge can be released later after the end.
+
+This project was developed on the Next Level Week #04 event by <a href="https://rocketseat.com.br/">Rocketseat</a>. 
 
 ## Layout
 
-See the layout on Figma.
-<br>
+The Layout was developed by <a href="https://www.instagram.com/tiagoluchtenberg/">Tiago Luchtenberg</a>, and you can access it by clicking on the Figma button below (<a href="https://www.figma.com/">Figma</a> account is required to access it).
+
 <br>
 <a href="https://www.figma.com/file/ScJHqqEWYjRGlTfeeYc4Et/Move.it-1.0-(Copy)?node-id=160%3A2761">
   <img alt="Figma layout" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?color=000000&style=for-the-badge&logo=figma&logoColor=dark-orange"/>
@@ -109,4 +111,7 @@ $ yarn dev
 
 This project is under the MIT license. See the <a href="https://github.com/Darrooooow/Move.it-NLW-04/blob/main/LICENSE.md">LICENSE</a> file for more details.
 
-Made with love by <a href="https://github.com/Darrooooow">Darrow</a>.
+<br>
+<hr>
+
+<p align="center">Made with 💜 by <a href="https://github.com/Darrooooow">Darrow</a>.</p>

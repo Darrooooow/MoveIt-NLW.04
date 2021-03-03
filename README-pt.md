@@ -56,18 +56,20 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido durante a Next Level Week #04 da <a href="https://rocketseat.com.br/">Rocketseat</a>.
+Geralmente, as pessoas que trabalham em casa passam tempo demais em frente ao computador, sentados na mesma posição por horas, e, o Move.it está aqui para consertar isso. O projeto foi desenvolvido utilizando a técnica Pomodoro de gerenciamento de tempo e gamificação, que consiste em o usuário focar em alguma atividade produtiva por 25 minutos. 
 
 <p align="center">
   <img src=".github/cover.png" alt="Página inicial">
 </p>
 
-The Move.it is an app that combines the Pomodoro technique with physical exercises for those who spend a lot of time in front of the computer.
+Após esse tempo, o app irá mostrar algum desafio físico que possa envolver o corpo ou olhos, como por exemplo, descansar os olhos, esticar os braços e coisas parecidas. Ao completar o desafio, o usuário ganha uma pontuação em XP que varia de acordo com cada desafio, e, eventualmente, o faz subir de nível e progredir no app. Caso o usuário não complete o desafio, o XP não será obtido e o app reiniciará o timer para que seja liberado outro desafio posteriormente após o término.
+
+Esse projeto foi desenvolvido durante o evento Next Level Week #04 da <a href="https://rocketseat.com.br/">Rocketseat</a>.
 
 ## Layout
 
-Veja o layout no Figma.
-<br>
+Este layout foi desenvolvido pelo <a href="https://www.instagram.com/tiagoluchtenberg/">Tiago Luchtenberg</a>, e você pode acessá-lo clicando no botão Figma abaixo (É necessário ter conta no <a href="https://www.figma.com/">Figma</a> para acessá-lo).
+
 <br>
 <a href="https://www.figma.com/file/ScJHqqEWYjRGlTfeeYc4Et/Move.it-1.0-(Copy)?node-id=160%3A2761">
   <img alt="Figma layout" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?color=000000&style=for-the-badge&logo=figma&logoColor=dark-orange"/>
@@ -108,4 +110,7 @@ $ yarn dev
 
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/Darrooooow/Move.it-NLW-04/blob/main/LICENSE.md">LICENSE</a> para mais detalhes.
 
-Feito com amor por <a href="https://github.com/Darrooooow">Darrow</a>.
+<br>
+<hr>
+
+<p align="center">Made with 💜 by <a href="https://github.com/Darrooooow">Darrow</a>.</p>
