@@ -78,7 +78,7 @@ Este layout foi desenvolvido pelo <a href="https://www.instagram.com/tiagoluchte
 
 ## Demo
 
-Veja uma demo real na Vercel.
+Veja uma demo real deste projeto na Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://moveit-darrow.vercel.app/)
 ## Tecnologias
