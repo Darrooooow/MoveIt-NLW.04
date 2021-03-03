@@ -71,7 +71,6 @@ This project was developed on the Next Level Week #04 event by <a href="https://
 
 The Layout was developed by <a href="https://www.instagram.com/tiagoluchtenberg/">Tiago Luchtenberg</a>, and you can access it by clicking on the Figma button below (<a href="https://www.figma.com/">Figma</a> account is required to access it).
 
-<br>
 <a href="https://www.figma.com/file/ScJHqqEWYjRGlTfeeYc4Et/Move.it-1.0-(Copy)?node-id=160%3A2761">
   <img alt="Figma layout" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?color=000000&style=for-the-badge&logo=figma&logoColor=dark-orange"/>
 </a>
@@ -79,7 +78,7 @@ The Layout was developed by <a href="https://www.instagram.com/tiagoluchtenberg/
 
 ## Demo
 
-See a real demo on Vercel.
+See a real demo of this project at Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://moveit-darrow.vercel.app/)
 ## Technologies

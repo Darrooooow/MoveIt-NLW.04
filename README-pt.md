@@ -70,7 +70,6 @@ Esse projeto foi desenvolvido durante o evento Next Level Week #04 da <a href="h
 
 Este layout foi desenvolvido pelo <a href="https://www.instagram.com/tiagoluchtenberg/">Tiago Luchtenberg</a>, e você pode acessá-lo clicando no botão Figma abaixo (É necessário ter conta no <a href="https://www.figma.com/">Figma</a> para acessá-lo).
 
-<br>
 <a href="https://www.figma.com/file/ScJHqqEWYjRGlTfeeYc4Et/Move.it-1.0-(Copy)?node-id=160%3A2761">
   <img alt="Figma layout" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?color=000000&style=for-the-badge&logo=figma&logoColor=dark-orange"/>
 </a>
