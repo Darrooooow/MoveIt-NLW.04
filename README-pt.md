@@ -36,3 +36,5 @@
 <p align="center">
   <img src=".github/cover.png" alt="Página inicial">
 </p>
+
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/Darrooooow/Move.it-NLW-04/blob/main/LICENSE.md">LICENSE</a> para mais detalhes.

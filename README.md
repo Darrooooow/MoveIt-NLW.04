@@ -35,7 +35,7 @@
 <br>
 
 
-<img align="right" src=".github/icon.svg" width="25%" alt="Move.it">
+<img align="right" src=".github/icon.svg" width="26%" alt="Move.it">
 
 ## Topics
 
@@ -43,14 +43,24 @@
 
 [Technologies](#Technologies)
 
-[How to run](#how-to-run)
+[How to run](#💻-how-to-run)
 
 [License](#license)
 
 
 <br>
 <br>
-<br>
-<br>
 
 ## About the project
+
+Este projeto foi desenvolvido durante a Next Level Week #04 da 
+
+## 🚀 Technologies
+
+## 💻 How to run
+
+## 📝 License
+
+This project is under the MIT license. See the <a href="https://github.com/Darrooooow/Move.it-NLW-04/blob/main/LICENSE.md">LICENSE</a> file for more details.
+
+Made with love by <a href="https://github.com/Darrooooow">Darrow</a>.
