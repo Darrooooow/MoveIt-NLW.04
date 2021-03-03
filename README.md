@@ -31,9 +31,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Darrooooow/Move.it-NLW-04?color=5965e0&labelColor=000000">
 </p>
 
-<br>
-<hr>
-<br>
+
 
 <img align="right" src=".github/icon.svg" width="35%" alt="Move.it">
 <br>
