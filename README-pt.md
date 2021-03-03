@@ -53,7 +53,6 @@
 * [Licença](#licença)
 
 <br>
-<br>
 
 ## Sobre o projeto
 
@@ -67,7 +66,7 @@ The Move.it is an app that combines the Pomodoro technique with physical exercis
 
 ## Layout
 
-See the layout on Figma.
+Veja o layout no Figma.
 <br>
 <br>
 <a href="https://www.figma.com/file/ScJHqqEWYjRGlTfeeYc4Et/Move.it-1.0-(Copy)?node-id=160%3A2761">
@@ -77,7 +76,7 @@ See the layout on Figma.
 
 ## Demo
 
-See a real demo on Vercel.
+Veja uma demo real na Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://moveit-darrow.vercel.app/)
 ## Tecnologias

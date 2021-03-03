@@ -54,11 +54,10 @@
 
 
 <br>
-<br>
 
 ## About the project
 
-Este projeto foi desenvolvido durante a Next Level Week #04 da <a href="https://rocketseat.com.br/">Rocketseat</a>.
+This project was developed on the Next Level Week #04 event by <a href="https://rocketseat.com.br/">Rocketseat</a>.
 
 <p align="center">
   <img src=".github/cover.png" alt="Página inicial">
@@ -92,19 +91,19 @@ See a real demo on Vercel.
 It is important to have <a href="https://yarnpkg.com/">Yarn</a> installed on your computer.
 
 ```bash
-# Abra um terminal e copie este repositório com o comando
+# Open a terminal and clone this repository
 $ git clone https://github.com/Darrooooow/Move.it-NLW-04.git
 
-# Entre na pasta com 
+# Access the folder
 $ cd Move.it-NLW-04
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Rode o aplicação
+# Start the application
 $ yarn dev
 
-# Agora você pode acessar localhost:3000 do seu navegador.
+# Now you can access localhost:3000 on your browser
 ```
 ## License
 
