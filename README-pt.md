@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/NLW-04-8257E5?&color=5965e0&labelColor=000000"></img>
   </a>
 
-  <img src="https://img.shields.io/github/license/darrow12/Move.it-NLW-04?color=5965e0&label=Licen%C3%A7a&labelColor=000000" alt="License" title="License">
+  <img src="https://img.shields.io/github/license/darrow12/Move.it-NLW-04?color=5965e0&label=license&labelColor=000000" alt="License" title="License">
 
   <a href="https://github.com/Darrooooow/Move.it-NLW-04/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Darrooooow/Move.it-NLW-04?&color=5965e0&labelColor=000000">
